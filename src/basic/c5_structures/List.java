@@ -41,7 +41,8 @@ public class List {
         System.out.println(names.contains("miguel"));
 
         // Limpiar Arrayslit
-
+        names.add("miguelino");
+        System.out.println(names);
         names.clear();
         System.out.println(names.size());
 
