@@ -1,6 +1,6 @@
 package basic.c08_oop;
 
-public class Class {
+public class ClassTuto {
     public static void main(String[] args) {
 
         var person = new Person("Miiguel", 28);
