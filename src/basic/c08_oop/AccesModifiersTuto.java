@@ -10,5 +10,8 @@ public class AccesModifiersTuto {
         -private
         -protected
         - (defaulte)  */
+
+        // Getters
+        // Setters
     }
 }
