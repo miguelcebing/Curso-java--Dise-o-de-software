@@ -1,3 +1,5 @@
+package basic.c02_JavaHome;
+
 public class HelloWorldExercises{
     public static void main(String[] args){
         // Aqui estoy cumpliendo con el ejercicio de imprimir mi nombre

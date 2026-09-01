@@ -1,3 +1,5 @@
+package basic.c02_JavaHome;
+
 public class VariablesAndConstants {
     public static void main(String[] args) {
 

@@ -2,11 +2,15 @@ package basic.c08_test_oop;
 
 public class EmployeeExercise {
     //Atributos
+
     double salary;
 
     //Constructor
     public EmployeeExercise(double salary) {
         this.salary = salary;
+    }
+
+    public EmployeeExercise() {
     }
 
     //Metodos
@@ -22,6 +26,16 @@ public class EmployeeExercise {
     public double getSalary() {
         return this.salary;
     }
+
+    public static class Employeed {
+        String name;
+        double salary;
+    }
+
+    public static class Manager  extends Employeed {
+        String departament;
+    }
+
 }
 
 

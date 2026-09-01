@@ -1,3 +1,5 @@
+package basic.c02_JavaHome;
+
 public class OperationsExercises {
     public static void main(String[] args) {
         // variable con cada operacion aritmetica

@@ -5,8 +5,8 @@ import basic.c08_test_oop.*;
 public class AccesModifiersExercises {
     public static void main(String[] args) {
         //Crear clase person y hacer privados atributos name y age y usar metodos getName, setName, getAge, setAge pa asignar los valores y mostrarlos en otra clase
-        var person = new PersonForExercise(19, "Miguel");
-        System.out.println("hello my name is" + person.getName() + "and I'm "+ person.getAge() + " years old");
+        var person = new PersonForExercise();
+
 
         // Crear clase producto con atributo privado price y añadir el metodo setPrice(double price) que solo permita precios mayores a cero
         var product = new ProductExercise(-145);

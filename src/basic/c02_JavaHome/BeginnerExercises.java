@@ -1,3 +1,5 @@
+package basic.c02_JavaHome;
+
 public class BeginnerExercises {
     public static void main(String[] args) {
         String name = "Miguel ceballos ";
