@@ -3,7 +3,7 @@ package basic.c08_oop;
 public class InheritanceTuto {
     public static void main(String[] args) {
 
-        //Herencia
+        //Herencia ( es un )
         var animal = new Animal("animal");
         //animal.name = "mi animal";
         animal.eat();
